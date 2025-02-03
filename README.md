@@ -1,2 +1,2 @@
 # beaconServer
-basic beaconing server
+basic beaconing server to respond to incoming requests
